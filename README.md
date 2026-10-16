@@ -1,18 +1,137 @@
-[# 💫 About Me:
-Code. Create. Learn. Repeat.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0066,30:7B2FFB,60:00E5FF,100:00FF88&height=280&section=header&text=SHLOK%20SOLANKI&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=twinkling&fontWeight=bold&stroke=ffffff&strokeWidth=1" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=00FF88&background=0D1117FF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+SHLOK.EXE...;%3E+LOADING+AWESOMENESS...100%25;Full-Stack+Developer+%7C+Bug+Slayer+%7C+Night+Owl;Code.+Create.+Learn.+Repeat.+%F0%9F%94%81;I+turn+coffee+into+production+code+%E2%98%95" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/phe0n1xx.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shlok-solanki-ba4786395) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shlokpsolanki2020@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=innerkidd&label=PROFILE+VIEWS&color=FF0066&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/innerkidd?label=FOLLOWERS&style=for-the-badge&color=7B2FFB" />
+  <img src="https://img.shields.io/badge/STATUS-BUILDING_SOMETHING_CRAZY-00E5FF?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/COFFEE-IV_DRIP-00FF88?style=for-the-badge&logo=buymeacoffee&logoColor=white" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=innerkidd&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=innerkidd&theme=shadow_green&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=innerkidd&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv6873qQ/giphy.gif" width="400" alt="coding" />
+</p>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%E2%9A%A1+SYSTEM+BOOT+SEQUENCE&fontSize=32&fontColor=00FF88&fontAlignY=50&animation=fadeIn" />
+
+```ansi
+[2;32m✔[0m [2;37mIdentity verified........ [2;32mSHLOK SOLANKI[0m
+[2;32m✔[0m [2;37mCoffee levels............ [2;33mCRITICAL (as usual)[0m
+[2;32m✔[0m [2;37mBugs squashed today...... [2;32m∞[0m
+[2;32m✔[0m [2;37mSleep schedule........... [2;31mNOT FOUND[0m
+[2;32m✔[0m [2;37mVibe check............... [2;35mIMM ACULATE ✨[0m
+```
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+ABOUT+ME&fontSize=32&fontColor=00E5FF&fontAlignY=50&animation=fadeIn" />
+
+```typescript
+const shlok: Developer = {
+  name: "Shlok Solanki",
+  role: "Full-Stack Developer & Team Lead",
+  location: "India 🇮🇳",
+  stack: ["React", "Next.js", "Node.js", "MySQL", "MongoDB", "Python"],
+  currently: "Leading 9 devs on a College Feedback Portal",
+  sideQuests: ["SIH 2026 grind", "Gym PRs", "155-song playlist with 3 personalities"],
+  motto: "Code. Create. Learn. Repeat.",
+  hireable: true,
+  debugSkill: 99, // music on = 2x speed
+};
+```
+
+- 🔭 **Right now:** building a full **College Feedback Portal** — Node + Express + MySQL + React, team of 9
+- 🌱 **Leveling up:** Next.js · System Design · SIH 2026
+- 💬 **Ping me for:** React, Node, MySQL — or why your code broke at 3 AM
+- 🎯 **2026 goal:** ship stuff people actually use
+- ⚡ **Fun fact:** my GitHub streak fears me, not the other way around
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%9B%A0%EF%B8%8F+TECH+ARSENAL&fontSize=32&fontColor=FF0066&fontAlignY=50&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,py,js,ts,php,html,css,react,nextjs,nodejs,express,tailwind,bootstrap,mysql,mongodb,supabase,git,github,vscode,unity,vercel,postman&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Fortran-yes_really-734F96?style=flat-square&logo=fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-automates_my_life-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-terminal_wizard-121011?style=flat-square&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-data_go_brrr-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-ml_stuff-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%93%8A+STATS+GO+BRRR&fontSize=32&fontColor=7B2FFB&fontAlignY=50&animation=fadeIn" />
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=innerkidd&theme=neon&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=innerkidd&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=innerkidd&theme=redical&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=innerkidd&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=innerkidd&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%90%8D+SNAKE+EATS+MY+COMMITS&fontSize=32&fontColor=00FF88&fontAlignY=50&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/innerkidd/innerkidd/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%8E%B5+LIFE+SOUNDTRACK&fontSize=32&fontColor=FF0066&fontAlignY=50&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🎧_Liked_Songs-155-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Retro_Bollywood-old_soul-FF0066?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gym_Mode-phonk_🥵-7B2FFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gujarati_Roots-ભજન_vibes-00E5FF?style=for-the-badge" />
+</p>
+
+<p align="center"><i>Daytime: Pritam × Arijit romance · Gym: slowed phonk monster · Heart: Gujarati bhajans</i></p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%98%82+DAILY+DOSE&fontSize=32&fontColor=FFD700&fontAlignY=50&animation=fadeIn" />
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dark&hideBorder" alt="dev joke" />
+</p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" />
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%8C%90+FIND+ME+IN+THE+WILD&fontSize=32&fontColor=00E5FF&fontAlignY=50&animation=fadeIn" />
+
+<p align="center">
+  <a href="https://discord.gg/phe0n1xx."><img src="https://img.shields.io/badge/Discord-join_the_chaos-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shlok-solanki-ba4786395"><img src="https://img.shields.io/badge/LinkedIn-let's_connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shlokpsolanki2020@gmail.com"><img src="https://img.shields.io/badge/Email-say_hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21v6gN/giphy.gif" width="60" alt="wave" />
+  <b>Thanks for scrolling this far — you're officially cool now.</b>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,30:00E5FF,60:7B2FFB,100:FF0066&height=140&section=footer&animation=twinkling" />
+
+<p align="center"><i>Made with 💜, excessive caffeine ☕, and 0 hours of sleep</i></p>
