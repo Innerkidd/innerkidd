@@ -87,7 +87,7 @@ const shlok: Developer = {
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%90%8D+SNAKE+EATS+MY+COMMITS&fontSize=32&fontColor=00FF88&fontAlignY=50&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/innerkidd/innerkidd/output/github-contribution-grid-snake-dark.svg" alt="snake eating contributions" />
+  <img src="https://raw.githubusercontent.com/innerkidd/innerkidd/output/github-snake-dark.svg" alt="snake eating contributions" />
 </p>
 
 ---
