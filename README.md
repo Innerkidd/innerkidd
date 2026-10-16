@@ -12,19 +12,19 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv6873qQ/giphy.gif" width="400" alt="coding" />
+  <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif" width="400" alt="coding" />
 </p>
 
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%E2%9A%A1+SYSTEM+BOOT+SEQUENCE&fontSize=32&fontColor=00FF88&fontAlignY=50&animation=fadeIn" />
 
-```ansi
-[2;32m✔[0m [2;37mIdentity verified........ [2;32mSHLOK SOLANKI[0m
-[2;32m✔[0m [2;37mCoffee levels............ [2;33mCRITICAL (as usual)[0m
-[2;32m✔[0m [2;37mBugs squashed today...... [2;32m∞[0m
-[2;32m✔[0m [2;37mSleep schedule........... [2;31mNOT FOUND[0m
-[2;32m✔[0m [2;37mVibe check............... [2;35mIMM ACULATE ✨[0m
+```
+✔ Identity verified........ SHLOK SOLANKI
+✔ Coffee levels............ CRITICAL (as usual)
+✔ Bugs squashed today...... ∞
+✔ Sleep schedule........... NOT FOUND
+✔ Vibe check............... IMMACULATE ✨
 ```
 
 ---
@@ -37,11 +37,8 @@ const shlok: Developer = {
   role: "Full-Stack Developer & Team Lead",
   location: "India 🇮🇳",
   stack: ["React", "Next.js", "Node.js", "MySQL", "MongoDB", "Python"],
-  currently: "Leading 9 devs on a College Feedback Portal",
-  sideQuests: ["SIH 2026 grind", "Gym PRs", "155-song playlist with 3 personalities"],
   motto: "Code. Create. Learn. Repeat.",
   hireable: true,
-  debugSkill: 99, // music on = 2x speed
 };
 ```
 
@@ -95,18 +92,7 @@ const shlok: Developer = {
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%8E%B5+LIFE+SOUNDTRACK&fontSize=32&fontColor=FF0066&fontAlignY=50&animation=fadeIn" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🎧_Liked_Songs-155-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Retro_Bollywood-old_soul-FF0066?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gym_Mode-phonk_🥵-7B2FFB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gujarati_Roots-ભજન_vibes-00E5FF?style=for-the-badge" />
-</p>
-
-<p align="center"><i>Daytime: Pritam × Arijit romance · Gym: slowed phonk monster · Heart: Gujarati bhajans</i></p>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:161B22&height=90&section=header&text=%F0%9F%98%82+DAILY+DOSE&fontSize=32&fontColor=FFD700&fontAlignY=50&animation=fadeIn" />
 
@@ -128,7 +114,7 @@ const shlok: Developer = {
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21v6gN/giphy.gif" width="60" alt="wave" />
+  👋
   <b>Thanks for scrolling this far — you're officially cool now.</b>
 </p>
 
