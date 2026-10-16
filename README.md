@@ -37,8 +37,6 @@ const shlok: Developer = {
   role: "Full-Stack Developer & Team Lead",
   location: "India 🇮🇳",
   stack: ["React", "Next.js", "Node.js", "MySQL", "MongoDB", "Python"],
-  currently: "Leading 9 devs on a College Feedback Portal",
-  sideQuests: ["SIH 2026 grind", "Hackathons", "Open Source"],
   motto: "Code. Create. Learn. Repeat.",
   hireable: true,
 };
