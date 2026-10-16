@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF0066,30:7B2FFB,60:00E5FF,100:00FF88&height=280&section=header&text=SHLOK%20SOLANKI&fontSize=75&fontColor=ffffff&fontAlignY=40&animation=twinkling&fontWeight=bold&stroke=ffffff&strokeWidth=1" />
+<img width="100%" src="header.svg" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=800&color=00FF88&background=0D1117FF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+SHLOK.EXE...;%3E+LOADING+AWESOMENESS...100%25;Full-Stack+Developer+%7C+Bug+Slayer+%7C+Night+Owl;Code.+Create.+Learn.+Repeat.+%F0%9F%94%81;I+turn+coffee+into+production+code+%E2%98%95" alt="Typing SVG" />
@@ -37,6 +37,8 @@ const shlok: Developer = {
   role: "Full-Stack Developer & Team Lead",
   location: "India 🇮🇳",
   stack: ["React", "Next.js", "Node.js", "MySQL", "MongoDB", "Python"],
+  currently: "Leading 9 devs on a College Feedback Portal",
+  sideQuests: ["SIH 2026 grind", "Hackathons", "Open Source"],
   motto: "Code. Create. Learn. Repeat.",
   hireable: true,
 };
@@ -118,6 +120,6 @@ const shlok: Developer = {
   <b>Thanks for scrolling this far — you're officially cool now.</b>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:00FF88,30:00E5FF,60:7B2FFB,100:FF0066&height=140&section=footer&animation=twinkling" />
+<img width="100%" src="footer.svg" />
 
 <p align="center"><i>Made with 💜, excessive caffeine ☕, and 0 hours of sleep</i></p>
