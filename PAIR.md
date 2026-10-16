@@ -1,3 +1,0 @@
-# Pair Programming
-
-Built together.
